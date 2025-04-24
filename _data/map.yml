@@ -8,8 +8,7 @@ locations:
     latitude: 37.227577
     longitude: -80.421986
     url: https://www.vt.edu
-location:
-  name: Phase 1.1: Inn
-  description: Astronauts give a talk at Virginia Tech and parasite/disease begins to spread on Wednesday, February 15th, 2027.
-  latitude: 37.229618
-  longitude: -80.429455
+  - name: Phase 1.1: Inn
+    description: Astronauts give a talk at Virginia Tech and parasite/disease begins to spread on Wednesday, February 15th, 2027.
+    latitude: 37.229618
+    longitude: -80.429455
