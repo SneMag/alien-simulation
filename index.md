@@ -1,6 +1,10 @@
 ---
-Alien-Parasite-Simulation
+title: Alien-Parasite-Simulation
+layout: home
+nav_order: 1
+permalink: /
 ---
+
 
 # Cattail Crisis
 
