@@ -1,8 +1,5 @@
 ---
-title: Home
-layout: home
-nav_order: 1
-permalink: /
+Alien-Parasite-Simulation
 ---
 
 # Cattail Crisis
@@ -10,11 +7,18 @@ permalink: /
 ![Placeholder](assets/images/MIT-Living-Therapeutics_0.jpg)
 
 ### Purpose
+  The purpose of this simulation is to explore the biological security threats posed by space exploration, specifically focusing on the catastrophic implications of pathogen transmission from extraterrestrial environments to Earth. Set in the aftermath of a 2027 mission to an uncharted exoplanet, this scenario examines the consequences of introducing a resilient, cholera-like parasite into a human population. By tracing the outbreak's origin to a post-mission analysis in Blacksburg, Virginia, the simulation highlights critical vulnerabilities in public health infrastructure, quarantine protocols, and disease identification systems. This exercise underscores the urgent need for advanced biosecurity measures, robust containment strategies, and ethical foresight in space exploration to prevent global crises sparked by alien microorganisms.
+  
+### Learning Objectives 
+  #### 1. Understanding how existing risks are exacerbated by a public health crisis
+  
+  #### 2. Understanding how disinformation and institutional distrust can worsen the effects of a disease outbreak
+  
+  #### 3. Understanding how various institutions coordinate efforts to handle an infectious disease outbreak 
+  
+  #### 4. Understand and exhibit what a proper post-flight safety procedure should look like 
+  
+  #### 5. Exhibit calm and composed behavior when spreading information to the public amidst a crisis
 
-
-
-Below is a list of resources about the website.
-
-- [GitHub Repository](https://github.com/future-of-security/simulation-template)
-- [Markdown Examples](https://github.com/just-the-docs/just-the-docs/blob/main/docs/index-test.md) -> [Generated Page](https://just-the-docs.com/docs/index-test/)
-- [GitHub Pages](https://pages.github.com/)
+### How To Navigate 
+ # add later
