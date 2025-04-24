@@ -5,8 +5,8 @@ center:
 locations:
   - name: VT
     description: Go Hokies!
-    latitude: 37.2249991
-    longitude: -80.4249983
+    latitude: 37.227577
+    longitude: -80.421986
     url: https://www.vt.edu
 location:
   name: Phase 1.1: Inn
