@@ -9,7 +9,9 @@ permalink: /
 
 ![Placeholder](assets/images/MIT-Living-Therapeutics_0.jpg)
 
-This is a template for creating new simulations.
+### Purpose
+
+
 
 Below is a list of resources about the website.
 
