@@ -5,9 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-# Just Another Simulation
+# Cattail Crisis
 
-![Placeholder](assets/images/placeholder.png)
+![Placeholder](assets/images/MIT-Living-Therapeutics_0.jpg)
 
 This is a template for creating new simulations.
 
