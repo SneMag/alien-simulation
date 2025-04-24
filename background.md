@@ -6,7 +6,7 @@ nav_order: 2
 
 # Background
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5BZEKRl1skU?si=E29xiI8bA3lQwR-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Placeholder](assets/images/cholera.GIF)
 
 
 In this simulation, a 2027 space expedition to an uncharted exoplanet results in the accidental return of a novel and highly lethal pathogen. Upon returning to Earth, astronauts unknowingly released a parasitic organism by contact during post-mission analysis of extraterrestrial samples. The organism, a cholera-like parasite with advanced resilience, has a 3-day incubation period before manifesting symptoms.
