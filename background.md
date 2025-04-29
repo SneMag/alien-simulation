@@ -20,7 +20,7 @@ Detailed descriptions of the roles participants can assume, including their spec
 Antagonist Event Creators throughout the simulation  
 - Astronauts/Companies like Blue Origin, SpaceX, and NASA, who continuously expand their space exploration missions 
 - Astronaut Representative (From X-Spacer): The four astronauts who started the outbreak will have one representative who is in charge of making statements and decisions on their behalf.
-- Disinformer #1: An Individual whose sole purpose throughout the simulation is to spread disinformation to as many people as possible.  
+- The Disinformer: An Individual whose sole purpose throughout the simulation is to spread disinformation to as many people as possible.  
 - Local Business Representatives (price-gouger reps): As local businesses recognize the demand is higher than the supply for their products, price gouging occurs in the Blacksburg community. All local businesses are represented by one representative who is in charge of making statements and decisions on their behalf.
 - Angry Parents Representative: Concerned parents of affected/non-affected students receive one representative who is in charge of making statements and decisions on their behalf.
 ### Blue Team:
