@@ -28,7 +28,7 @@ locations:
     latitude: 37.2187
     longitude: 80.4155
     url: "#"    
-  - name: "Phase 1.4: LGMH Overwhelmed"
+- name: "Phase 1.4: LGMH Overwhelmed"
     description: Friday, February 18th. LGMH becomes overwhelmed with affected patients.
     latitude: 37.1871934
     longitude: -80.4187756
