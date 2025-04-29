@@ -9,7 +9,27 @@ locations:
     longitude: -80.421986
     url: https://www.vt.edu
   - name: "Phase 1.1: Inn"
-    description: Astronauts give a talk at Virginia Tech and parasite/disease begins to spread on Wednesday, February 15th, 2027.
+    description: Astronauts give a talk at Virginia Tech and parasite/disease begins to spread on Wednesday, February 15th, 2027. 
     latitude: 37.229618
     longitude: -80.429455
     url: "#"
+  - name: "Phase 1.2: Infection"
+    description: All those who attended the meet and greet session and were in contact with the Astronauts were infected 
+    latitude: 37.229618
+    longitude: -80.429455
+    url: "#"
+- name: "Phase 1.3: Symptoms Begin"
+    description: Symptoms begin presenting on Friday, February 18th. Schiffert is closed on weekends and Lewis-Gale Montogmery Hospital (LGMH) is the main option for affected patients.  
+    latitude: 37.2236
+    longitude: -80.4693
+    url: "#"    
+- name: "Phase 1.3.1: Symptoms Begin"
+    description: Friday, February 18th. Local authorities are instituting a shelter in place protocol given the rapidness of disease spread
+    latitude: 37.2187
+    longitude: 80.4155
+    url: "#"    
+  - name: "Phase 1.4: LGMH Overwhelmed"
+    description: Friday, February 18th. LGMH becomes overwhelmed with affected patients.
+    latitude: 37.1871934
+    longitude: -80.4187756
+    url: "#"    
