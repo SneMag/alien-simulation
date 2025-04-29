@@ -1,5 +1,5 @@
 ---
-title: Alien-Parasite-Simulation
+title: Cattail Crisis 
 layout: home
 nav_order: 1
 permalink: /
