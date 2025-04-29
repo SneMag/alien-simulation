@@ -1,42 +1,26 @@
-# simulation-template
+# Progressing the simulation
 
-This is a *bare-minimum* template to create a simulation site.
+To move the simulation forward to the next phase, copy the contents of the appropriate YAML file from the `_data/Yaml_phases` folder and overwrite the `_data/map.yaml` file. Commit the changes and reload the website. This will remove the previous phase's events and populate the map with the events from the next phase. It might take the new events a few moments to load.
 
-To get started with creating a site, simply:
+# Red Team injected scenarios
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-   - note: don't create `jekyll.yml` as all configurations are already in place
+The Red Team should also create two or more pop-up events during each phase. The participants on the Blue Team should include responses to these injections in their reports for each phase.
 
-After completing the creation of your new site on GitHub, update it as needed:
+To create a pop-up event and display it on the map, edit the `_data/map.yaml` file by pasting an event at the bottom using the following template:
+   `
+   - name: "EVENT NAME"
+    description: EVENT DESCRIPTION
+    latitude: LATITUDE AS A FLOAT
+    longitude: LONGITUTE AS A FLOAT
+    url: "EVENT URL"
+   `
+Here is an example:
+   `
+   - name: "My Simulation Event"
+    description: This is a description of the event.
+    latitude: 37.229572
+    longitude: -80.413940
+    url: "(https://zombo.com/)"
+   `
 
-## Replace the content of the template pages
-
-Update the following files to your own content:
-
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
-
-You may update or delete other `.md` files as needed.
-
-## Publishing your site on GitHub Pages
-
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
-
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    footer_content: 'YOUR FOOTNOTE.'
-    ```
-
-2.  Push your updated `_config.yml` to your site on GitHub.
-
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
-
-## Supporting discussions
-
-[giscus](https://giscus.app/) is a comment system powered by GitHub Discussions. You could use this feature for
-facilitating communication among players, submitting reports, and/or collecting feedback. To enable it,
-config your giscus app, and replace the JavaScript code in `_layouts/event.html`.
+# Reports through giscus
