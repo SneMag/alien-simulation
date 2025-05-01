@@ -5,8 +5,7 @@ nav_order: 2
 parent: Scenarios
 has_children: true
 ---
- 
-## Your current phase is: Phase 1
+
 # Events in the phase:  
 
 ## Phase 1: Initial Infection
