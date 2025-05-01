@@ -1,5 +1,5 @@
 ---
-title: Phase One
+title: Events
 layout: event
 parent: Scenarios
 nav_order: 1
