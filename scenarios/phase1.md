@@ -5,7 +5,7 @@ parent: Scenarios
 nav_order: 1
 ---
 
-# Events in the phase: 
+# Events in the phase:  
 
 ## Phase 1: Initial Infection
   ### 1.1 Astronauts give a talk at Virginia Tech and parasite/disease begins to spread on Wednesday, February 15th, 2027. 
