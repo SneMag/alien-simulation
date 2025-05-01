@@ -1,5 +1,5 @@
 ---
-title: Phase Two
+title: Phase Two Events
 layout: event
 parent: Scenarios
 nav_order: 5
@@ -21,14 +21,14 @@ nav_order: 5
 #### Most popular symptom is dehydration
 #### Trace origin of the disease back to the astronaut’s talk
 #### Disease is contained in Blacksburg with neighboring counties showing no signs of infection. 
-##### Recommendations for reducing spread of the parasite such as 
-###### Self-isolate
-###### Hand-sanitizer
-###### Bottled Water
-###### Use toilets 
-###### Boil it, cook it, peel it, or leave it
-###### Sanitize food preparation areas 
+##### - Recommendations for reducing spread of the parasite such as 
+######  - Self-isolate
+######  - Hand-sanitizer
+######  - Bottled Water
+######  - Use toilets 
+######  - Boil it, cook it, peel it, or leave it
+######  - Sanitize food preparation areas 
 ### Informed the CDC about the matter and experts are incoming. 
 #### Inquiry Results (Private)
-##### Contact tracing has begun, and an estimated 300 more people may soon be infected
-##### Chesapeake Bay Watershed is quickly being contaminated
+#####   - Contact tracing has begun, and an estimated 300 more people may soon be infected
+#####   - Chesapeake Bay Watershed is quickly being contaminated
