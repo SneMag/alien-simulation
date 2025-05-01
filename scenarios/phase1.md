@@ -4,7 +4,7 @@ layout: event
 parent: Scenarios
 nav_order: 1
 ---
-
+ 
 # Events in the phase:  
 
 ## Phase 1: Initial Infection
