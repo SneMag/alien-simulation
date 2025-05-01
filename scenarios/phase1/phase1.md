@@ -1,7 +1,7 @@
 ---
 title: Events
 layout: event
-parent: phase1
+parent: scenarios
 nav_order: 1
 ---
  
