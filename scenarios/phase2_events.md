@@ -5,7 +5,7 @@ parent: Scenarios
 nav_order: 3
 ---
  
-# Events in the phase:  
+# Events in the phase:   
 
 ## Phase 2: Early Crisis
 ###  Saturday, February 19th, LGMH power outage and hospital resources are quickly being depleted
