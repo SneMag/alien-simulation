@@ -4,47 +4,47 @@ center:
   zoom: 9
 locations:
   - name: "Phase 2: Early Crisis"
-     description: Saturday, February 19th. LGMH suffers a power outage and hospital resources are quickly being depleted.
-     latitude: 37.1871934
-     longitude: -80.4187756
-     url: "#"
+    description: Saturday, February 19th. LGMH suffers a power outage and hospital resources are quickly being depleted.
+    latitude: 37.1871934
+    longitude: -80.4187756
+    url: "#"
   - name: "Phase 2.1: Emergency Request"
-     description: Saturday, February 19th. The Governor of Virginia requests immediate emergency supplies for hospitals in the Blacksburg area.
-     latitude: 37.5388415
-     longitude: -77.4361709
-     url: "#"
+    description: Saturday, February 19th. The Governor of Virginia requests immediate emergency supplies for hospitals in the Blacksburg area.
+    latitude: 37.5388415
+    longitude: -77.4361709
+    url: "#"
   - name: "Phase 2.2: Parent Petition"
-     description: Sunday, February 20th. Concerned parents petition the Virginia Department of Health to send students home.
-     latitude: 37.1295326
-     longitude: -80.4146934
-     url: "#"
+    description: Sunday, February 20th. Concerned parents petition the Virginia Department of Health to send students home.
+    latitude: 37.1295326
+    longitude: -80.4146934
+    url: "#"
   - name: "Phase 2.3: University Decision"
-     description: Monday, February 21st. University leaders are prompted to make a decision.
-     latitude: 37.229037
-     longitude: -80.4339924
-     url: "#"
+    description: Monday, February 21st. University leaders are prompted to make a decision.
+    latitude: 37.229037
+    longitude: -80.4339924
+    url: "#"
   - name: "Phase 2.4: Health Inquiry Begins"
-     description: Monday, February 21st. Virginia Department of Health begins an inquiry into the Blacksburg crisis.
-     latitude: 37.23052
-     longitude: -80.5123371
-     url: "#"
+    description: Monday, February 21st. Virginia Department of Health begins an inquiry into the Blacksburg crisis.
+    latitude: 37.23052
+    longitude: -80.5123371
+    url: "#"
   - name: "Phase 2.5: Waterways Contaminated"
-     description: Tuesday, February 22nd. VDH concludes Blacksburg waterways are contaminated and orders closure of adjacent bodies of water.
-     latitude: 37.1659944
-     longitude: -80.5715414
-     url: "#"
+    description: Tuesday, February 22nd. VDH concludes Blacksburg waterways are contaminated and orders closure of adjacent bodies of water.
+    latitude: 37.1659944
+    longitude: -80.5715414
+    url: "#"
   - name: "Phase 2.6: Inquiry Results (Public)"
-     description: Parasite named Cattail due to molecular resemblance to cattail weed and cholera. 2 deaths, 70 infected, most common symptom is dehydration. Disease is contained within Blacksburg.
-     latitude: 37.23052
-     longitude: -80.5123371
-     url: "#"
+    description: Parasite named Cattail due to molecular resemblance to cattail weed and cholera. 2 deaths, 70 infected, most common symptom is dehydration. Disease is contained within Blacksburg.
+    latitude: 37.23052
+    longitude: -80.5123371
+    url: "#"
   - name: "Phase 2.7: Recommendations"
-     description: Public health guidance includes self-isolation, hand sanitizer, bottled water, sanitation, and food safety.
-     latitude: 37.23052
-     longitude: -80.5123371
-     url: "#"
+    description: Public health guidance includes self-isolation, hand sanitizer, bottled water, sanitation, and food safety.
+    latitude: 37.23052
+    longitude: -80.5123371
+    url: "#"
   - name: "Phase 2.8: Inquiry Results (Private)"
-     description: Contact tracing suggests 300 more may be infected. Chesapeake Bay Watershed is beginning to be affected.
-     latitude: 38.2337648
-     longitude: -77.4169601
-     url: "#"
+    description: Contact tracing suggests 300 more may be infected. Chesapeake Bay Watershed is beginning to be affected.
+    latitude: 38.2337648
+    longitude: -77.4169601
+    url: "#"
