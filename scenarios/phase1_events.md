@@ -1,10 +1,11 @@
 ---
-title: Scenarios
+title: Phase One Events
 layout: page
 nav_order: 1
 has_children: true
 ---
  
+## Your current phase is: Phase 1
 # Events in the phase:  
 
 ## Phase 1: Initial Infection
