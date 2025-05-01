@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Scenarios
-
+ 
 ## Your current phase is: Phase 1
 ### Phase Description
 
