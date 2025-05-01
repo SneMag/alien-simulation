@@ -23,4 +23,16 @@ Here is an example:
     url: "https://zombo.com/"
    ```
 
-# Reports through giscus
+# Reports through giscus comments
+
+## Phase Reports
+To submit an individual report summarizing your response to a new phase, use the comments section at the bottom of the phase's page in the Scenarios tab. This will require you to create a GitHub account. Once you have an account, click in the text box to start writing.
+Give your report a title using the '#' markdown character. For example:
+   ```
+   # Title of my Report
+
+   Text of my report.
+   ```
+When you click on the Preview tab in the comment box, your title should be bolded.
+## Red Team injection reports
+To submit a report in response to a Red Team event, create your report as a comment using the same format as above. This should also be a comment on the page for the phase the event is part of. Make sure the title follows the format specified in the user manual.
