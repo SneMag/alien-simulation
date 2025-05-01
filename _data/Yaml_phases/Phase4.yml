@@ -5,31 +5,31 @@ center:
 locations:
   - name: "Phase 4: Human Trials Begin"
     description: Tuesday, March 1st. First trial wave (20 students, 5 faculty) treated. By March 2nd, symptoms subside.
-    latitude: 37.227577
-    longitude: -80.421986
-    url: "#"
-  - name: "Phase 4.1: Trial Controversy"
-    description: March 2nd. Debate over self-selected trial participants. Second wave includes 15 students and 8 vulnerable faculty.
-    latitude: 37.227577
-    longitude: -80.421986
-    url: "#"
-  - name: "Phase 4.2: VT Mandates for Faculty"
-    description: Thursday, March 3rd. VT mandates antibiotics for infected faculty who wish to remain employed. 2 faculty quit.
-    latitude: 37.227577
-    longitude: -80.421986
-    url: "#"
-  - name: "Phase 4.3: VT Mandates for Students"
-    description: March 3rd. VT requires infected students attending in-person classes or activities to take the antibiotic.
-    latitude: 37.227577
-    longitude: -80.421986
-    url: "#"
-  - name: "Phase 4.4: Hokie P Treatment Weekend"
-    description: March 4th–6th. VT hosts a treatment session for Hokie P holders. Event stirs further controversy.
     latitude: 37.1871934
     longitude: -80.4187756
     url: "#"
+  - name: "Phase 4.1: Trial Controversy"
+    description: March 2nd. Debate over self-selected trial participants. Second wave includes 15 students and 8 vulnerable faculty.
+    latitude: 37.1871934
+    longitude: -80.4187756
+    url: "#"
+  - name: "Phase 4.2: VT Mandates for Faculty"
+    description: Thursday, March 3rd. VT mandates antibiotics for infected faculty who wish to remain employed. 2 faculty quit.
+    latitude: 37.229037
+    longitude: -80.4339924
+    url: "#"
+  - name: "Phase 4.3: VT Mandates for Students"
+    description: March 3rd. VT requires infected students attending in-person classes or activities to take the antibiotic.
+    latitude: 37.229037
+    longitude: -80.4339924
+    url: "#"
+  - name: "Phase 4.4: Hokie P Treatment Weekend"
+    description: March 4th–6th. VT hosts a treatment session for Hokie P holders. Event stirs further controversy.
+    latitude: 37.229532
+    longitude: -80.4285555
+    url: "#"
   - name: "Simulation Ends"
     description: Simulation concludes after Hokie P treatment event. Community remains divided.
-    latitude: 37.229572
-    longitude: -80.413940
+    latitude: 37.229037
+    longitude: -80.4339924
     url: "#"
