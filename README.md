@@ -34,5 +34,6 @@ Give your report a title using the '#' markdown character. For example:
    Text of my report.
    ```
 When you click on the Preview tab in the comment box, your title should be bolded.
+Phase reports should be titled using the following format: `MY POSITION: Response to Phase PHASE NUMBER`. For example, `University President: Response to Phase 1`.
 ## Red Team injection reports
-To submit a report in response to a Red Team event, create your report as a comment using the same format as above. This should also be a comment on the page for the phase the event is part of. Make sure the title follows the format specified in the user manual.
+To submit a report in response to a Red Team event, create your report as a comment using the same format as above. This should also be a comment on the page for the phase the event is part of. To differentiate the Red Team injection reports from the phase reports, title them as follows: `MY POSITION: Response to INJECTION NAME`. For example, `University President: Response to Industrial Accident at the Water Treatment Plant`.
