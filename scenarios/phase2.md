@@ -7,7 +7,7 @@ nav_order: 5
  
 # Events in the phase:  
 
-## Phase 1: Initial Infection
+## Phase 2: Early Crisis
 ###  Saturday, February 19th, LGMH power outage and hospital resources are quickly being depleted
 ###  Saturday, February 19th. The Governor of Virginia requests immediate emergency supplies, including generators, gloves, masks, and hazmat suits for hospitals in the Blacksburg area. 
 ###  Sunday February 20th. Concerned parents of students in Blacksburg community petition Virginia Department of Health to send them home
