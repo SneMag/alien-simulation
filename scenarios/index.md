@@ -7,10 +7,8 @@ nav_order: 3
 # Scenarios
 
 ## Your current phase is: Phase 1
-### Events in this phase
+### Phase Description
 
 ### Phase 1: Initial Infection
-      Astronauts give a talk at Virginia Tech and parasite/disease begins to spread on Wednesday, February 15th, 2027. 
-      All those who attended the meet and greet session and were in contact with the Astronauts were infected on this Wednesday
-      Symptoms begin presenting on Friday, February 18th. Schiffert is closed on the weekends, as are a few popular clinics in the area. Lewis-Gale Montgomery Hospital (LGMH) is the main option for severely affected patients. Local authorities are instituting a shelter in place protocol given the rapidness of disease spread
-      LGMH becomes overwhelmed with affected patients. Some of the student/faculty workers at LGMH attended the astronaut talk and were in direct contact with the infected astronauts.
+      
+On Wednesday, February 15th, 2027, astronauts visited Virginia Tech, and a rapidly spreading parasite or disease began infecting attendees of the meet and greet session. Symptoms emerged by Friday, February 18th, but with Schiffert and several local clinics closed over the weekend, Lewis-Gale Montgomery Hospital (LGMH) became the primary care center and was quickly overwhelmed. As some LGMH staff had also attended the event and were infected, local authorities instituted a shelter-in-place protocol to contain the outbreak.
