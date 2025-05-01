@@ -1,7 +1,7 @@
 ---
 title: Events
 layout: event
-parent: scenarios
+parent: Scenarios
 nav_order: 1
 ---
  
