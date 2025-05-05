@@ -13,7 +13,7 @@ nav_order: 6
 ### 4.3) VT requires infected students attending in-person classes or activities to take the antibiotic. 
 ### 4.4) VT hosts a treatment session for Hokie P holders. Event stirs further controversy. 
 
-## Red Team Events Go Here!
+## Red Team Events Here!
 ### 4.R1) 
 
 
