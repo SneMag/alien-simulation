@@ -8,6 +8,7 @@ nav_order: 4
 # Events in the phase:   
 
 ## Phase 2: Early Crisis
+#### LGMH suffers a power outage and hospital resources are quickly being depleted. 
 ###  2.1) The Governor of Virginia requests immediate emergency supplies for hospitals in the Blacksburg area
 ###  2.2) Concerned parents petition the Virginia Department of Health to send students home
 ###  2.3) University leaders are prompted to make a decision.
