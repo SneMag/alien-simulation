@@ -26,4 +26,8 @@ permalink: /
 
 ### How To Navigate 
 
-# add later
+## If you want to see what phase you're on, click Scenarios or ask your facilitator
+## If you want to respond to an event, follow the instructions shown on the map tab
+## If you have any questions, use the FAQ tab
+## If you need background information on the event, click Cattail Crisis
+## Those are the big ideas! Explore the rest of the tabs and learn as much as you can about the crisis before responding to your first event in phase 1. 
