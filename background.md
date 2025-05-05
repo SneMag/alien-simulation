@@ -6,7 +6,7 @@ nav_order: 2
 
 # Background
 
-![Placeholder](assets/images/cholera.GIF)
+![Placeholder](alien-simulation/assets/images/cholera.GIF)
 
 ## Overview
 In this simulation, a 2027 space expedition to an uncharted exoplanet results in the accidental return of a novel and highly lethal pathogen. Upon returning to Earth, astronauts unknowingly released a parasitic organism by contact during post-mission analysis of extraterrestrial samples. The organism, a cholera-like parasite with advanced resilience, has a 3-day incubation period before manifesting symptoms.
@@ -23,8 +23,8 @@ Antagonist Event Creators throughout the simulation
 - The Disinformer: An Individual whose sole purpose throughout the simulation is to spread disinformation to as many people as possible.  
 - Local Business Representatives (price-gouger reps): As local businesses recognize the demand is higher than the supply for their products, price gouging occurs in the Blacksburg community. All local businesses are represented by one representative who is in charge of making statements and decisions on their behalf.
 - Angry Parents Representative: Concerned parents of affected/non-affected students receive one representative who is in charge of making statements and decisions on their behalf.
-### Blue Team:
 
+### Blue Team:
 #### Centers for Disease Control and Prevention (CDC) 
 - Acting Director of the CDC: Receives updates and makes statements based on the decisions, actions, and updates of the Director of the National Center for Emerging and Zoonotic Infectious Diseases at CDC. Speaks for the whole of the CDC organization. 
 - Director of the National Center for Emerging and Zoonotic Infectious Diseases at the CDC: Responsible for investigating the issue, communicating regularly with the acting director of the CDC. Does not make any updates without concrete health information. Only spreads prevention messaging with updates. 
