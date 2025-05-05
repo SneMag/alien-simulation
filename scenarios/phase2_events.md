@@ -16,3 +16,6 @@ nav_order: 4
 ###  2.6) Parasite named Cattail due to molecular resemblance to cattail weed and cholera. 2 deaths, 70 infected, most common symptom is dehydration. Disease is contained within Blacksburg.
 ###  2.7) Public health guidance includes self-isolation, hand sanitizer, bottled water, sanitation, and food safety. 
 ###  2.8) Contact tracing suggests 300 more may be infected. Chesapeake Bay Watershed is beginning to be affected. 
+
+## Red Team Events Here!
+###  2.R)
