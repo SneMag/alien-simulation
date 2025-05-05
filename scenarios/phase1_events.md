@@ -1,6 +1,6 @@
 ---
 title: Phase One Events
-layout: page
+layout: event
 nav_order: 3
 parent: Scenarios
 ---
