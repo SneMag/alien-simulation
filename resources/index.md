@@ -6,4 +6,4 @@ nav_order: 6
 
 # Resources
 
-You may add more resources in the `resources` folder.
+Guidance about the simulation and real-world examples of managing a public health crisis.
