@@ -1,7 +1,6 @@
 ---
 title: Scenarios
 layout: page
-parent: Scenarios
 nav_order: 2
 
 ---
