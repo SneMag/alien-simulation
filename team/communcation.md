@@ -7,8 +7,12 @@ nav_order: 2
 
 # Communication
 
-Conversations within groups. If you want to communicate within your specific group (up to the facilitator to decide what groups they want) you can do so here! Just format your conversations like this in a comment so everyone knows who is talking to whom: 
-  Title:      Medical Core Group: So what are y'all thinking about this whole Cattail crisis thing?
+Conversations within groups. If you want to communicate within your specific group (up to the facilitator to decide what groups they want) you can do so here! Just format your conversations like this in a comment so everyone knows who is talking to whom:  
+```
+    # Medical Core Group 
+    
+    So what are y'all thinking about this whole Cattail crisis thing?
+```
 
 <script src="https://giscus.app/client.js"
         data-repo="future-of-security/simulation-template"

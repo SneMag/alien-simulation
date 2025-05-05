@@ -23,7 +23,7 @@ Here is an example:
     url: "https://zombo.com/"
    ```
 
-# Reports through giscus comments
+# Reports in Giscus
 
 ## Phase Reports
 To submit an individual report summarizing your response to a new phase, use the comments section at the bottom of the phase's page in the Scenarios tab. This will require you to create a GitHub account. Once you have an account, click in the text box to start writing.
