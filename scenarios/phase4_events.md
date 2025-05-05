@@ -17,4 +17,3 @@ nav_order: 6
 ### 4.R1) 
 
 
-### Simulation concludes. Community remains divided. 
