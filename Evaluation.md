@@ -4,8 +4,8 @@ layout: page
 nav_order: 2
 ---
 
-# Evaluation Metrics: 
-**Clear criteria for evaluating participant performance, such as their decision-making process, collaboration, and achievement of objectives**
+# Evaluation Metrics 
+**Clear criteria for evaluating participant performance, such as their decision-making process, collaboration, and achievement of objectives.**
  
 The Red Team and Professor will be responsible for evaluating and providing feedback to simulation participants. Each student will write an After Action Report, which will provide the qualitative feedback and evaluation metrics. 
 - **Casualty Management:** This will be measured by tracking casualties.  
