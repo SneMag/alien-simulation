@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Roles and Responsibilities
-
+<!-- Facilitator: Add a participant's name to the table below by placing it between the two | characters in the Name column. -->
 | Name | Role | Role Description | Category |
 |------|------|------------------|----------|
 |      | Antagonist Event Creator | Designs and initiates disruptive events that escalate the simulation | Red |
